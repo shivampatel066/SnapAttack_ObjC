@@ -16,6 +16,12 @@
 		40862A40239D23680095650B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 40862A3F239D23680095650B /* main.m */; };
 		40862A4A239D23680095650B /* SnapAttack_ObjCTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 40862A49239D23680095650B /* SnapAttack_ObjCTests.m */; };
 		40862A55239D23680095650B /* SnapAttack_ObjCUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 40862A54239D23680095650B /* SnapAttack_ObjCUITests.m */; };
+		40862A64239D23940095650B /* Cheveuxdange.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40862A62239D23930095650B /* Cheveuxdange.ttf */; };
+		40862A65239D23940095650B /* Cheveuxdange.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40862A62239D23930095650B /* Cheveuxdange.ttf */; };
+		40862A66239D23940095650B /* Cheveuxdange.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40862A62239D23930095650B /* Cheveuxdange.ttf */; };
+		40862A67239D23940095650B /* DK Cinnabar Brush.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40862A63239D23930095650B /* DK Cinnabar Brush.ttf */; };
+		40862A68239D23940095650B /* DK Cinnabar Brush.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40862A63239D23930095650B /* DK Cinnabar Brush.ttf */; };
+		40862A69239D23940095650B /* DK Cinnabar Brush.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40862A63239D23930095650B /* DK Cinnabar Brush.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +60,8 @@
 		40862A50239D23680095650B /* SnapAttack_ObjCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnapAttack_ObjCUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40862A54239D23680095650B /* SnapAttack_ObjCUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SnapAttack_ObjCUITests.m; sourceTree = "<group>"; };
 		40862A56239D23680095650B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40862A62239D23930095650B /* Cheveuxdange.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Cheveuxdange.ttf; sourceTree = "<group>"; };
+		40862A63239D23930095650B /* DK Cinnabar Brush.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DK Cinnabar Brush.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +123,8 @@
 				40862A3B239D23680095650B /* LaunchScreen.storyboard */,
 				40862A3E239D23680095650B /* Info.plist */,
 				40862A3F239D23680095650B /* main.m */,
+				40862A62239D23930095650B /* Cheveuxdange.ttf */,
+				40862A63239D23930095650B /* DK Cinnabar Brush.ttf */,
 			);
 			path = SnapAttack_ObjC;
 			sourceTree = "<group>";
@@ -240,9 +250,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40862A67239D23940095650B /* DK Cinnabar Brush.ttf in Resources */,
 				40862A3D239D23680095650B /* LaunchScreen.storyboard in Resources */,
 				40862A3A239D23680095650B /* Assets.xcassets in Resources */,
 				40862A38239D23660095650B /* Main.storyboard in Resources */,
+				40862A64239D23940095650B /* Cheveuxdange.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +262,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40862A68239D23940095650B /* DK Cinnabar Brush.ttf in Resources */,
+				40862A65239D23940095650B /* Cheveuxdange.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +271,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40862A69239D23940095650B /* DK Cinnabar Brush.ttf in Resources */,
+				40862A66239D23940095650B /* Cheveuxdange.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
